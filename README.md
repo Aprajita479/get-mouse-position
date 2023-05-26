@@ -32,7 +32,8 @@ The project relies on the following dependencies:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).Feel free to modify and use the code according to your needs. Contributions are also welcome.
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to modify and use the code according to your needs. Contributions are also welcome.
 
 ## Acknowledgments
 
